@@ -61,7 +61,7 @@ class App extends React.Component{
     <SongPage/>
     <Footer/>
   </div>
-        )}
+    )}
 
   else if (this.state.page==="Dates"){return(
     <div className="Dates">
@@ -74,7 +74,7 @@ class App extends React.Component{
       <DatePage/>
       <Footer/>
     </div>
-            )}
+    )}
   }
 }
 // const Navbar = () =>{
@@ -124,7 +124,7 @@ const DatePage = () =>{
 const Footer = () =>{
   return (
     <footer>
-    <h1>Email: email@example.com</h1>
+    <h3>Email: email@example.com</h3>
     </footer>
   )
 }
