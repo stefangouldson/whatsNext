@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import pic from './assets/bandPic.jpg'
+//import pic from './assets/bandPic.jpg'
+import back from './assets/background-img.PNG'
 
 class App extends React.Component{
   state = {
@@ -91,7 +92,7 @@ class App extends React.Component{
 const Homepage = () =>{
   return(
   <div className="page">
-  <img className="background-img" src={pic} alt=""></img>
+  <img className="background-img" src={back} alt=""></img>
   </div>
   )
 }
