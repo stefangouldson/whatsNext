@@ -28,7 +28,7 @@ class App extends React.Component{
   <div className="Pages">
   <nav>
       <h1 onClick={this.ChangetoHom}>Home</h1>
-      <h1 onClick={this.ChangetoMem}>Members</h1>
+      <h1 onClick={this.ChangetoMem}>About</h1>
       <h1 onClick={this.ChangetoSong}>Songs</h1>
       <h1 onClick={this.ChangetoDates}>Dates</h1>
   </nav>
@@ -41,7 +41,7 @@ class App extends React.Component{
   <div className="Pages">
   <nav>
     <h1 onClick={this.ChangetoHom}>Home</h1>
-    <h1 onClick={this.ChangetoMem}>Members</h1>
+    <h1 onClick={this.ChangetoMem}>About</h1>
     <h1 onClick={this.ChangetoSong}>Songs</h1>
     <h1 onClick={this.ChangetoDates}>Dates</h1>
   </nav>
@@ -54,7 +54,7 @@ class App extends React.Component{
   <div className="Pages">
   <nav>
     <h1 onClick={this.ChangetoHom}>Home</h1>
-    <h1 onClick={this.ChangetoMem}>Members</h1>
+    <h1 onClick={this.ChangetoMem}>About</h1>
     <h1 onClick={this.ChangetoSong}>Songs</h1>
     <h1 onClick={this.ChangetoDates}>Dates</h1>
   </nav>
@@ -67,7 +67,7 @@ class App extends React.Component{
     <div className="Dates">
     <nav>
       <h1 onClick={this.ChangetoHom}>Home</h1>
-      <h1 onClick={this.ChangetoMem}>Members</h1>
+      <h1 onClick={this.ChangetoMem}>About</h1>
       <h1 onClick={this.ChangetoSong}>Songs</h1>
       <h1 onClick={this.ChangetoDates}>Dates</h1>
     </nav>
