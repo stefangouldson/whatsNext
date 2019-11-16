@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/whatsNext/static/css/main.fa1b76a7.chunk.css",
+    "main.css": "/whatsNext/static/css/main.038019a7.chunk.css",
     "main.js": "/whatsNext/static/js/main.328af7b8.chunk.js",
     "main.js.map": "/whatsNext/static/js/main.328af7b8.chunk.js.map",
     "runtime-main.js": "/whatsNext/static/js/runtime-main.161d00b7.js",
@@ -8,15 +8,15 @@
     "static/js/2.fb5b33a6.chunk.js": "/whatsNext/static/js/2.fb5b33a6.chunk.js",
     "static/js/2.fb5b33a6.chunk.js.map": "/whatsNext/static/js/2.fb5b33a6.chunk.js.map",
     "index.html": "/whatsNext/index.html",
-    "precache-manifest.4aa3069c9871ab7d260744a18a303682.js": "/whatsNext/precache-manifest.4aa3069c9871ab7d260744a18a303682.js",
+    "precache-manifest.58ace44dd240cc57683e3f2c9e1d1632.js": "/whatsNext/precache-manifest.58ace44dd240cc57683e3f2c9e1d1632.js",
     "service-worker.js": "/whatsNext/service-worker.js",
-    "static/css/main.fa1b76a7.chunk.css.map": "/whatsNext/static/css/main.fa1b76a7.chunk.css.map",
+    "static/css/main.038019a7.chunk.css.map": "/whatsNext/static/css/main.038019a7.chunk.css.map",
     "static/media/bandPic.jpg": "/whatsNext/static/media/bandPic.ffd47195.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.161d00b7.js",
     "static/js/2.fb5b33a6.chunk.js",
-    "static/css/main.fa1b76a7.chunk.css",
+    "static/css/main.038019a7.chunk.css",
     "static/js/main.328af7b8.chunk.js"
   ]
 }
