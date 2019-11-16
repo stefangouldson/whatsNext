@@ -2,7 +2,7 @@ body{margin: 0; padding: 0; background-color:white}
 .App{margin: 0; padding: 0;}
 
 .page{
-  font-family: cursive;
+  font-family: Arial, Helvetica, sans-serif;
   animation: fadeIn 1s;
   display: flex;
   flex-direction: column;
@@ -10,6 +10,7 @@ body{margin: 0; padding: 0; background-color:white}
   padding-top: 10vh;
   min-height: 90vh;
   position: relative;
+  padding: 1%;
 }
 
 .background-img{
